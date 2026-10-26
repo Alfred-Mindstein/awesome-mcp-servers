@@ -2083,6 +2083,8 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [nteract/semiotic](https://github.com/nteract/semiotic) [![nteract/semiotic MCP server](https://glama.ai/mcp/servers/nteract/semiotic/badges/score.svg)](https://glama.ai/mcp/servers/nteract/semiotic) 📇 🏠 🍎 🪟 🐧 - Semiotic React data visualization: suggest charts for a dataset, render validated configs to SVG, diagnose anti-patterns and fetch component schemas.
 
+- [M4TIC-tech/token-efficient-mcp](https://github.com/M4TIC-tech/token-efficient-mcp) [![M4TIC-tech/token-efficient-mcp MCP server](https://glama.ai/mcp/servers/M4TIC-tech/token-efficient-mcp/badges/score.svg)](https://glama.ai/mcp/servers/M4TIC-tech/token-efficient-mcp) 📇 🏠 🍎 🪟 🐧 - An MCP server that cuts AI agent token usage by 94% by rendering brand-compliant dashboards from JSON specs.
+
 ### 📟 <a name="embedded-system"></a>Embedded System
 
 Provides access to documentation and shortcuts for working on embedded devices.
